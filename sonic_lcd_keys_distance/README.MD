@@ -6,7 +6,7 @@ Hardware:
 + HC-SR04
 
 Shield pins: J5:
-1 -- Trig
-2 -- Echo
-8 -- Gnd
-9 -- 5V 
++ 1 -- Trig
++ 2 -- Echo
++ 8 -- Gnd
++ 9 -- 5V 
