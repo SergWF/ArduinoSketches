@@ -5,4 +5,8 @@ Hardware:
 + SainSmart Lcd keypad Schield v 1.0
 + HC-SR04
 
-
+Shield pins: J5:
+1 -- Trig
+2 -- Echo
+8 -- Gnd
+9 -- 5V 
